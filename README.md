@@ -1,5 +1,5 @@
 # Html-Cakes
-Written in html, Css, with lite Java
+Written in html; Css;
 #No feature comments included, This is meant to display a Demo Web-application
 
 
